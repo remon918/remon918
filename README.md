@@ -111,9 +111,15 @@ A modern tuition management platform that helps students find tutors easily and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remon918&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remon918&theme=tokyonight" alt="streak stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=remon918&show_icons=true&theme=tokyonight&border_radius=10" 
+    height="180em" 
+    alt="GitHub Stats"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=remon918&theme=tokyonight&border_radius=10" 
+    height="180em" 
+    alt="GitHub Streak"
+  />
 </p>
