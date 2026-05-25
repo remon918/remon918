@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=Remon%20Hossen&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=55&descSize=18"
+    alt="banner"
+    width="100%"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Remon Hossen</h1>
 <h3 align="center">Frontend Developer | Passionate About Building Modern Web Applications</h3>
 
