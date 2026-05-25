@@ -109,27 +109,25 @@ A modern tuition management platform that helps students find tutors easily and 
 - ⚡ Fast and clean user experience
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
+### 🔥 GitHub Streak
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=remon918&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-    height="180em"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=remon918&theme=tokyonight&hide_border=true&border_radius=12"
-    height="180em"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=remon918&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
   />
 </p>
 
+---
+
+### 📈 GitHub Contribution Graph
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=remon918&theme=tokyo-night&hide_border=true"
-    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=remon918&theme=tokyo-night&hide_border=true" 
+    width="100%" 
   />
 </p>
 ```
+
 
