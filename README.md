@@ -9,7 +9,7 @@
 <h3 align="center">Frontend Developer | Passionate About Building Modern Web Applications</h3>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/renon918">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
@@ -111,9 +111,9 @@ A modern tuition management platform that helps students find tutors easily and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=remon918&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remon918&theme=tokyonight" alt="streak stats" />
 </p>
